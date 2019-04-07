@@ -1,7 +1,7 @@
 # installed requests using the following pip
 # pip install requests
 
-# The added to the project
+# The added to the project in Pycharm
 # Go into File → Settings → Project Settings → Project Interpreter.
 
 import requests
